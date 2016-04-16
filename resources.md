@@ -11,6 +11,7 @@
 * [Introduction to Probability](http://www.stat.berkeley.edu/~aldous/134/grinstead.pdf)
 * [Statistics 110: Probability](http://projects.iq.harvard.edu/stat110/youtube)
 * [Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=m_XdFYOZ6K4&list=PLUAHeOPjkJscoDA4FZXN_h6Vj_1V5AdUi)
+* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
 
 ## Machine Learning
@@ -40,6 +41,7 @@
 * [r/datasets](https://www.reddit.com/r/datasets)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [100 Interesting Datasets](http://rs.io/100-interesting-data-sets-for-statistics/)
+* [Data Is Plural, weekly list of data sources](http://tinyletter.com/data-is-plural)
 
 
 ## News
