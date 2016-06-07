@@ -13,7 +13,6 @@
 * [Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=m_XdFYOZ6K4&list=PLUAHeOPjkJscoDA4FZXN_h6Vj_1V5AdUi)
 * [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
-
 ## Machine Learning
 
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
@@ -22,7 +21,7 @@
 * [Pattern Recognition and Machine Learning](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 
-##Neural Networks
+## Neural Networks
 
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Neural Networks Class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -34,6 +33,11 @@
 * [Searchable D3 Gallery](http://christopheviau.com/d3list/gallery.html)
 * [r/DataIsBeautiful](http://www.reddit.com/r/dataisbeautiful)
 
+## Network Analysis
+
+* [Network Analysis Made Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple)
+* [Social Network Analysis Coursera](https://www.coursera.org/course/sna)
+
 ## Data!
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.html)
@@ -44,12 +48,11 @@
 * [100 Interesting Datasets](http://rs.io/100-interesting-data-sets-for-statistics/)
 * [Data Is Plural, weekly list of data sources](http://tinyletter.com/data-is-plural)
 
-
 ## News
 
-* [DataTau, hacker news for data] (http://www.datatau.com/)
-* [MachineLearning on reddit] (https://www.reddit.com/r/MachineLearning/)
-* [KDNuggets] (http://www.kdnuggets.com/)
+* [DataTau, hacker news for data](http://www.datatau.com/)
+* [MachineLearning on reddit](https://www.reddit.com/r/MachineLearning/)
+* [KDNuggets](http://www.kdnuggets.com/)
 * [Data Skeptic Podcast](http://dataskeptic.com/)
 * [Talking Machines Podcast](http://www.thetalkingmachines.com/)
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/)
